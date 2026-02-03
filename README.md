@@ -65,18 +65,3 @@
 ### 🚀 Modern Backend Ecosystem
 * **NestJS & TypeScript**: Java/Spring 경험을 바탕으로, 안정적이고 확장성 있는 Node.js 기반 아키텍처를 학습 중입니다.
 * **Infrastructure as Code**: GCP 환경에서 VPC, 방화벽, GCE를 직접 구축하며 인프라 전반에 대한 이해도를 넓히고 있습니다.
-
-<br>
-<hr>
-<br>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L-EEEEEE&show_icons=true&theme=radical&hide_border=true" />
-  
-  <br><br>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-EEEEEE&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br>

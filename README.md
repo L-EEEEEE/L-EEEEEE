@@ -1,4 +1,5 @@
-# 👋 Hello, I'm a Backend Engineer focused on System Stability & Performance
+# 👋 
+# Hello, I'm a Backend Engineer focused on System Stability & Performance
 
 비즈니스의 핵심 데이터를 안정적인 시스템으로 구현하고 최적화하는 데 가치를 두는 2년 10개월 차 백엔드 엔지니어입니다.  
 실무에서 겪은 데이터 불일치 문제를 집요하게 추적하여 해결하며, 시스템의 신뢰도를 높이는 데 주력해 왔습니다.

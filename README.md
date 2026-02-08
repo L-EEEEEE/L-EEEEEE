@@ -23,9 +23,7 @@
 
 ## 📈 Key Accomplishments & Technical Insight
 
-* **System Performance**: Redis 캐시 도입을 통한 DB 부하 60% 감소 및 응답 속도 50% 단축 경험
 * **Data Integrity**: 현장 모니터링 기반 전수 조사를 통해 시스템 데이터 불일치 이슈 70% 해결
-* **Optimization**: 대용량 통계 쿼리 실행 계획 분석 및 튜닝을 통해 조회 속도 50% 향상 (5s → 2.5s)
 * **Operational Excellence**: B2B 산업군 특화 시스템(MES, 재고관리 등) 단독 운영 및 유지보수
 
 <br>
